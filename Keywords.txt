@@ -1,0 +1,9 @@
+Emotion recognition from e-learning
+
+Methodology should use agentic AI
+
+-------------------------------------------------
+
+e-learning video-- face detection using Deformable convolution based Gated Feature Pyramid Network with Retina Face --- Classification Knowledge distillation based Agentic Adaptive Hierarchical Vision Transformer with Spatial Bi-level Routing Attention
+
+P.Selvamani-Paper 4 (Class II)
